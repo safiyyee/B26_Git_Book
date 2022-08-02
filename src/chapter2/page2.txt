@@ -9,3 +9,6 @@ o I have gained domain knowledge in the communication, Education and Financial i
 o So, I have a strong understanding of SDLC, and I am familiar with both Waterfall and Agile environment
 o I am highly proficient in various testing types, including like; functional, regression and smoke testing.
 
+page 2
+
+text
